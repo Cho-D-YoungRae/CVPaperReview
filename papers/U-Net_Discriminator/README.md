@@ -59,5 +59,5 @@ Figures
 
 ![figs1](image/figs1.png)
 ![figs2](image/figs2.png)
-![figs3](image/figs3.png)
-![figs4](image/figs4.png)
+![figs3](image/figs4.png)
+![figs4](image/figs5.png)
